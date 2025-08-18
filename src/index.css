@@ -1,0 +1,21 @@
+@import "tailwindcss";
+body{
+  background-color: #eaeae8;
+  font-family: gilroy;
+}
+@font-face {
+    font-family:india ;
+    src: url(assets\Condenser-Regular-BF68918cfd62b6d.otf);
+}
+@font-face {
+  font-family: pak;
+  src: url(assets\GC-EPICPRO-Demo-BF6891cc5419ab8.ttf);
+}
+@font-face {
+  font-family: gilroy;
+  src: url(assets\Gilroy-ExtraBold.otf);
+}
+@font-face {
+  font-family: china;
+  src: url(assets\3856NeueMachina.woff2);
+}
