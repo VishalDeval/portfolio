@@ -5,17 +5,17 @@ body{
 }
 @font-face {
     font-family:india ;
-    src: url(assets\Condenser-Regular-BF68918cfd62b6d.otf);
+    src: url(assets/fonts/Condenser-Regular-BF68918cfd62b6d.otf);
 }
 @font-face {
   font-family: pak;
-  src: url(assets\GC-EPICPRO-Demo-BF6891cc5419ab8.ttf);
+  src: url(assets/fonts/GC-EPICPRO-Demo-BF6891cc5419ab8.ttf);
 }
 @font-face {
   font-family: gilroy;
-  src: url(assets\Gilroy-ExtraBold.otf);
+  src: url(assets/fonts/Gilroy-ExtraBold.otf);
 }
 @font-face {
   font-family: china;
-  src: url(assets\3856NeueMachina.woff2);
+  src: url(assets/fonts/3856NeueMachina.woff2);
 }
