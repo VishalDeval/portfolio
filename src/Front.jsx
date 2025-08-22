@@ -9,7 +9,7 @@ const Front = () => {
         <div className="text-xl text-[#6d6d6d]">
           👋, I'm Vishal & I am a <br />
           <div className="relative flex flex-col ">
-            <div className="font-[india] text-[40vw] md:text-[30vw] m-0 p-0 leading-none text-black">
+            <div className="font-[india] text-[50vw] md:text-[30vw] m-0 p-0 leading-none text-black">
               FULLSTACK
             </div>
 

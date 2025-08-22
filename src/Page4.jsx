@@ -2,7 +2,7 @@ import React from "react";
 
 const Page4 = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 w-full p-6">
+    <div id="about" className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 w-full p-6">
       <div>
         <h2 className="text-2xl md:text-3xl font-bold mb-4">Experience</h2>
         <div className="space-y-4">
@@ -81,7 +81,7 @@ const Page4 = () => {
           <div className="bg-black text-white rounded-2xl p-4">
             <span className="text-xs">2023 - 2027</span>
             <h3 className="font-semibold text-lg">
-              B.Tech – Computer Engineering <br />
+              B.Tech  <br />
               <span className="text-gray-400 text-sm font-[china]">
                 Zakir Hussain College of Engineering & Technology, AMU <br /> (CGPA: 8.07)
               </span>

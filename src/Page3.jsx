@@ -4,7 +4,7 @@ import health from "./assets/health.svg";
 
 const Page3 = () => {
   return (
-    <div className="bg-black">
+    <div id="projects" className="bg-black">
       <h1 className="text-white px-6 py-5 text-2xl md:text-3xl">Projects</h1>
 
       <div className="flex flex-col md:flex-row items-center justify-around gap-6 px-6 pb-10">
