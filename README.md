@@ -1,12 +1,58 @@
-# React + Vite
+🌐 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Personal Portfolio Website built with React, Vite, Tailwind CSS, and JavaScript to showcase my projects, skills, and achievements.
 
-Currently, two official plugins are available:
+🚀 Deployed on: https://myportfolio-coral-rho-96.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Features
 
-## Expanding the ESLint configuration
+🎨 Modern UI/UX – Clean and responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Mobile-Friendly – Works seamlessly on all devices
+
+⚡ Fast & Optimized – Lightweight and performance-focused
+
+📂 Projects Showcase – Highlights my best work
+
+🧑‍💻 About Me Section – Introduction and career journey
+
+📬 Contact Form / Links – Easy way to connect with me
+
+🛠️ Tech Stack
+
+Frontend: React, Vite, JavaScript
+
+Styling: Tailwind CSS
+
+Animations: GSAP
+
+Deployment: Vercel / Netlify / GitHub Pages
+
+📸 Preview-
+![alt text](image.png)
+![alt text](image-1.png)
+
+📂 Folder Structure
+portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── README.md
+
+🔗 Live Demo
+
+👉 View Portfolio
+
+📬 Contact
+
+📧 Email: vishaldeval098@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/vishal-deval-0a1283296/
+
+💻 GitHub: https://github.com/VishalDeval
+
+✨ Made with ❤️ by Vishal Deval
