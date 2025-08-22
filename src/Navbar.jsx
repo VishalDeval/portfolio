@@ -38,7 +38,7 @@ const Navbar = () => {
       {isOpen && (
         <div className="absolute top-16 left-0 w-full rounded-2xl bg-white shadow-md flex flex-col items-center gap-4 py-6 text-gray-700 md:hidden z-50">
           <a href="https://drive.google.com/file/d/1RjgJNze9TWEcXkhHsZZ0iqpLFZ8Dlp5m/view?usp=sharing" className="hover:text-black" onClick={() => setIsOpen(false)}>Resume</a>
-          <a href="#photos" className="hover:text-black" onClick={() => setIsOpen(false)}>Projects</a>
+          <a href="#projects" className="hover:text-black" onClick={() => setIsOpen(false)}>Projects</a>
           <a href="#about" className="hover:text-black" onClick={() => setIsOpen(false)}>About</a>
           <a
             href="mailto:vishaldeval098@gmail.com"
