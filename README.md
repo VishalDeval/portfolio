@@ -1,38 +1,41 @@
-🌐 Personal Portfolio
+# 🌐 Personal Portfolio  
 
-A modern and responsive Personal Portfolio Website built with React, Vite, Tailwind CSS, and JavaScript to showcase my projects, skills, and achievements.
+A modern and responsive **Personal Portfolio Website** built with **React, Vite, Tailwind CSS, and JavaScript** to showcase my projects, skills, and achievements.  
 
-🚀 Deployed on: https://myportfolio-coral-rho-96.vercel.app/
+🚀 **Deployed on:** [My Portfolio](https://myportfolio-coral-rho-96.vercel.app/)  
 
-📌 Features
+---
 
-🎨 Modern UI/UX – Clean and responsive design
+## 📌 **Features**  
 
-📱 Mobile-Friendly – Works seamlessly on all devices
+- 🎨 **Modern UI/UX** – Clean and responsive design  
+- 📱 **Mobile-Friendly** – Works seamlessly on all devices  
+- ⚡ **Fast & Optimized** – Lightweight and performance-focused  
+- 📂 **Projects Showcase** – Highlights my best work  
+- 🧑‍💻 **About Me Section** – Introduction and career journey  
+- 📬 **Contact Form / Links** – Easy way to connect with me  
 
-⚡ Fast & Optimized – Lightweight and performance-focused
+---
 
-📂 Projects Showcase – Highlights my best work
+## 🛠️ **Tech Stack**  
 
-🧑‍💻 About Me Section – Introduction and career journey
+- **Frontend:** React, Vite, JavaScript  
+- **Styling:** Tailwind CSS  
+- **Animations:** GSAP  
+- **Deployment:** Vercel / Netlify / GitHub Pages  
 
-📬 Contact Form / Links – Easy way to connect with me
+---
 
-🛠️ Tech Stack
+## 📸 **Preview**  
 
-Frontend: React, Vite, JavaScript
+![Portfolio Preview 1](image.png)  
+![Portfolio Preview 2](image-1.png)  
 
-Styling: Tailwind CSS
+---
 
-Animations: GSAP
+## 📂 **Folder Structure**  
 
-Deployment: Vercel / Netlify / GitHub Pages
-
-📸 Preview-
-![alt text](image.png)
-![alt text](image-1.png)
-
-📂 Folder Structure
+```bash
 portfolio/
 ├── public/
 ├── src/
