@@ -8,7 +8,16 @@ const Page4 = () => {
         <div className="space-y-4">
           <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
             <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
-              2024 - Present
+              Sep 2025 - Present
+            </span>
+            <h3 className="font-semibold mt-2 text-lg">Google Campus Ambassador </h3>
+            <p className="text-sm text-gray-600 font-[china]">
+              Promoted Google tools and programs on campus, organized workshops, and built student engagement while strengthening leadership and communication skills.
+            </p>
+          </div>
+          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
+            <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
+              JUL 2024 - Aug 2024
             </span>
             <h3 className="font-semibold mt-2 text-lg">
               Web Developer Intern (At Codsoft)
@@ -20,7 +29,7 @@ const Page4 = () => {
 
           <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
             <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
-              2023 - Present
+              April 2025
             </span>
             <h3 className="font-semibold mt-2 text-lg">AMUHacks 4.0 (Hackathon)</h3>
             <p className="text-sm text-gray-600 font-[china]">
@@ -30,7 +39,7 @@ const Page4 = () => {
 
           <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
             <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
-              2023 - Present
+              2024 - 2025
             </span>
             <h3 className="font-semibold mt-2 text-lg">Video Editor – AMU Roboclub</h3>
             <p className="text-sm text-gray-600 font-[china]">
