@@ -22,7 +22,7 @@ const Front = () => {
           </div>
         </div>
 
-        <img src={meImage} className="absolute xl:opacity-[95%] h-24 bottom-82 opacity-0 md:h-74 md:bottom-12" />
+        <img src={meImage} className="absolute xl:opacity-[95%] h-24 bottom-82 opacity-0 md:h-74 md:bottom-8" />
       </div>
 
       <div className="bg-black text-white font-[china] rounded-xl flex justify-end items-center h-10 my-10 absolute bottom-0 right-0 px-10 hover:text-black hover:bg-white duration-600">
