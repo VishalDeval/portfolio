@@ -8,19 +8,16 @@ const Page3 = () => {
       <h1 className="text-white px-6 py-5 text-2xl md:text-3xl">Projects</h1>
 
       <div className="flex flex-col md:flex-row items-center justify-around gap-6 px-6 pb-10">
-        
-        <a 
-          href="https://github.com/VishalDeval/Web_LLM_Model" 
-          target="_blank" 
+
+        {/* Web LLM Model */}
+        <a
+          href="https://github.com/VishalDeval/Web_LLM_Model"
+          target="_blank"
           rel="noopener noreferrer"
           className="bg-[#eaeae8] h-[220px] h-auto w-full md:w-[35%] flex flex-col rounded-3xl hover:scale-105 p-4 duration-200 cursor-pointer"
         >
           <div className="flex items-start gap-3">
-            <img
-              src={ai}
-              className="w-10 md:w-14"
-              alt="LLM Model"
-            />
+            <img src={ai} className="w-10 md:w-14" alt="LLM Model" />
           </div>
           <h3 className="font-[india] text-6xl md:text-7xl lg:text-7xl mt-auto">
             Web LLM Model
@@ -31,18 +28,15 @@ const Page3 = () => {
           </p>
         </a>
 
-        <a 
-          href="https://github.com/VishalDeval/devXhack_AMUHACK4.0" 
-          target="_blank" 
+        {/* Healthmate AI */}
+        <a
+          href="https://github.com/VishalDeval/devXhack_AMUHACK4.0"
+          target="_blank"
           rel="noopener noreferrer"
           className="bg-[#223cf5] h-[220px] md:h-auto w-full md:w-[35%] flex flex-col rounded-3xl hover:scale-105 p-4 duration-200 cursor-pointer"
         >
           <div className="flex items-start gap-3">
-            <img
-              src={health}
-              className="invert w-10 md:w-14"
-              alt="Healthmate AI"
-            />
+            <img src={health} className="invert w-10 md:w-14" alt="Healthmate AI" />
           </div>
           <h3 className="font-[india] text-white text-6xl md:text-6xl lg:text-7xl mt-auto">
             Healthmate AI
@@ -50,6 +44,60 @@ const Page3 = () => {
           <p className="text-gray-200 text-sm font-[china] md:text-base mt-2">
             An AI health assistant that generates personalized diet charts, answers medical queries,
             and helps locate nearby hospitals and pharmacies.
+          </p>
+        </a>
+
+      </div>
+
+      <div className="flex flex-col md:flex-row items-center justify-around gap-6 px-6 pb-10">
+
+        {/* Socket.Texts */}
+        <a
+          href="https://github.com/VishalDeval"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-[#223cf5] h-[220px] md:h-auto w-full md:w-[35%] flex flex-col rounded-3xl hover:scale-105 p-4 duration-200 cursor-pointer"
+        >
+          <div className="flex items-start gap-3">
+            {/* Chat bubble icon */}
+            <svg xmlns="http://www.w3.org/2000/svg" className="w-10 md:w-14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+              <circle cx="9" cy="10" r="1" fill="white" stroke="none"/>
+              <circle cx="12" cy="10" r="1" fill="white" stroke="none"/>
+              <circle cx="15" cy="10" r="1" fill="white" stroke="none"/>
+            </svg>
+          </div>
+          <h3 className="font-[india] text-white text-6xl md:text-6xl lg:text-7xl mt-auto">
+            Socket.Texts
+          </h3>
+          <p className="text-gray-200 text-sm font-[china] md:text-base mt-2">
+            A real-time chat application where users can message anyone via socket ID or join chat rooms,
+            built with Socket.io, React, Express and Node.js.
+          </p>
+        </a>
+
+        {/* Teacher & Admin Dashboard */}
+        <a
+          href="https://github.com/VishalDeval/teacher-and-admin-page"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bg-[#eaeae8] h-[220px] h-auto w-full md:w-[35%] flex flex-col rounded-3xl hover:scale-105 p-4 duration-200 cursor-pointer"
+        >
+          <div className="flex items-start gap-3">
+            {/* Dashboard/grid icon */}
+            <svg xmlns="http://www.w3.org/2000/svg" className="w-10 md:w-14" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+              <rect x="3" y="3" width="7" height="7" rx="1"/>
+              <rect x="14" y="3" width="7" height="7" rx="1"/>
+              <rect x="3" y="14" width="7" height="7" rx="1"/>
+              <rect x="14" y="14" width="7" height="7" rx="1"/>
+            </svg>
+          </div>
+          <h3 className="font-[india] text-6xl md:text-7xl lg:text-7xl mt-auto">
+            Admin Dashboard
+          </h3>
+          <p className="text-gray-700 font-[china] text-sm md:text-base mt-2">
+            A role-based Teacher and Admin dashboard for a startup platform, handling user management,
+            academic data, and administrative controls with a responsive UI.
           </p>
         </a>
 

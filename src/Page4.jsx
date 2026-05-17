@@ -6,15 +6,37 @@ const Page4 = () => {
       <div>
         <h2 className="text-2xl md:text-3xl font-bold mb-4">Experience</h2>
         <div className="space-y-4">
+
           <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
             <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
-              Sep 2025 - Present
+              2025 - Present
             </span>
-            <h3 className="font-semibold mt-2 text-lg">Google Campus Ambassador </h3>
+            <h3 className="font-semibold mt-2 text-lg">Intern – TechTrailDMC (Startup)</h3>
+            <p className="text-sm text-gray-600 font-[china]">
+              Working as an intern at TechTrailDMC, contributing to startup development initiatives and real-world tech solutions.
+            </p>
+          </div>
+
+          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
+            <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
+              Jan 2026
+            </span>
+            <h3 className="font-semibold mt-2 text-lg">Freelance Full Stack Developer</h3>
+            <p className="text-sm text-gray-600 font-[china]">
+              Built a role-based Teacher & Admin dashboard for a startup, with user management, academic data controls, and a responsive UI using modern web technologies.
+            </p>
+          </div>
+
+          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
+            <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
+              Sep 2025 - Jan 2026
+            </span>
+            <h3 className="font-semibold mt-2 text-lg">Google Campus Ambassador</h3>
             <p className="text-sm text-gray-600 font-[china]">
               Promoted Google tools and programs on campus, organized workshops, and built student engagement while strengthening leadership and communication skills.
             </p>
           </div>
+
           <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
             <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
               JUL 2024 - Aug 2024
@@ -27,15 +49,7 @@ const Page4 = () => {
             </p>
           </div>
 
-          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
-            <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
-              April 2025
-            </span>
-            <h3 className="font-semibold mt-2 text-lg">AMUHacks 4.0 (Hackathon)</h3>
-            <p className="text-sm text-gray-600 font-[china]">
-              Created HealthMate AI (diet chart generator, hospital finder, symptom checker).
-            </p>
-          </div>
+          
 
           <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border">
             <span className="text-xs bg-blue-600 text-white px-3 py-1 rounded-full">
@@ -46,6 +60,7 @@ const Page4 = () => {
               Produced videos for events & projects, boosting online presence & engagement.
             </p>
           </div>
+
         </div>
       </div>
 
@@ -71,17 +86,21 @@ const Page4 = () => {
             <span className="bg-purple-500 text-white px-2 py-1 text-xs rounded-full">MongoDB</span>
             <span className="bg-yellow-500 text-white px-2 py-1 text-xs rounded-full">Express</span>
             <span className="bg-gray-500 text-white px-2 py-1 text-xs rounded-full">GSAP</span>
+            <span className="bg-cyan-500 text-white px-2 py-1 text-xs rounded-full">Socket.io</span>
+            <span className="bg-indigo-500 text-white px-2 py-1 text-xs rounded-full">C++</span>
           </div>
         </div>
 
         <h3 className="font-semibold text-xl md:text-3xl mb-2">Soft Skills</h3>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-2 mb-6">
           <span className="bg-blue-200 text-blue-800 px-3 py-1 text-base rounded-full">Creativity</span>
           <span className="bg-gray-200 text-gray-800 px-3 py-1 text-base rounded-full">Teamwork</span>
           <span className="bg-gray-200 text-gray-800 px-3 py-1 text-base rounded-full">Time Management</span>
           <span className="bg-gray-200 text-gray-800 px-3 py-1 text-base rounded-full">Problem-Solving</span>
           <span className="bg-blue-200 text-blue-800 px-3 py-1 text-base rounded-full">Communication</span>
+          <span className="bg-gray-200 text-gray-800 px-3 py-1 text-base rounded-full">Adaptability</span>
         </div>
+
       </div>
 
       <div>
@@ -90,40 +109,76 @@ const Page4 = () => {
           <div className="bg-black text-white rounded-2xl p-4">
             <span className="text-xs">2023 - 2027</span>
             <h3 className="font-semibold text-lg">
-              B.Tech  <br />
+              B.Tech Civil Engineering <br />
               <span className="text-gray-400 text-sm font-[china]">
-                Zakir Hussain College of Engineering & Technology, AMU <br /> (CGPA: 8.07)
+                Zakir Hussain College of Engineering & Technology, AMU <br /> (CGPA: 7.853)
               </span>
             </h3>
-            <hr></hr>
+            <hr />
           </div>
 
           <div className="bg-black text-white rounded-2xl p-4">
-            <span className="text-xs">2021 - 2022</span>
+            <span className="text-xs">2021 - 2023</span>
             <h3 className="font-semibold text-lg">
               Intermediate (PCM) <br />
               <span className="text-gray-400 text-sm font-[china]">
-                Bal Vidya Mandir Sr. Sec. School <br /> 92.4%
+                Bal Vidya Mandir Sr. Sec. School <br /> 93.4%
               </span>
             </h3>
-            <hr></hr>
+            <hr />
           </div>
 
           <div className="bg-black text-white rounded-2xl p-4">
-            <span className="text-xs">2019 - 2020</span>
-            <h3 className="font-semibold">
+            <span className="text-xs">2019 - 2021</span>
+            <h3 className="font-semibold text-lg">
               High School <br />
-              <span className="text-gray-400 text-sm font-[china] text-lg">
+              <span className="text-gray-400 text-sm font-[china]">
                 Bal Vidya Mandir Sr. Sec. School <br /> 88.6%
               </span>
             </h3>
-            <hr></hr>
+            <hr />
           </div>
-          
         </div>
+
+        <h2 className="text-2xl md:text-3xl font-bold mt-8 mb-4">Certifications</h2>
+        <div className="space-y-3">
+          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border flex items-start gap-3">
+            <span className="text-blue-600 mt-0.5">
+              <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="12" cy="8" r="6"/><path d="M9 22h6M12 14v8"/>
+              </svg>
+            </span>
+            <div>
+              <h3 className="font-semibold text-sm">ISRO Cyberspace Quiz</h3>
+              <p className="text-xs text-gray-600 font-[china]">AIR 317 – Space Science & Technology</p>
+            </div>
+          </div>
+          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border flex items-start gap-3">
+            <span className="text-blue-600 mt-0.5">
+              <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
+              </svg>
+            </span>
+            <div>
+              <h3 className="font-semibold text-sm">AMU Hack 4.0</h3>
+              <p className="text-xs text-gray-600 font-[china]">Hackathon Participant</p>
+            </div>
+          </div>
+          <div className="bg-[#eaeae8] rounded-2xl p-4 shadow-sm border flex items-start gap-3">
+            <span className="text-blue-600 mt-0.5">
+              <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/>
+              </svg>
+            </span>
+            <div>
+              <h3 className="font-semibold text-sm">Adobe Digital Disha Workshop</h3>
+              <p className="text-xs text-gray-600 font-[china]">Digital Literacy and Creativity</p>
+            </div>
+          </div>
+        </div>
+
       </div>
-      
-      
+
     </div>
   );
 };
