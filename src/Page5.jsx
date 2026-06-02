@@ -3,7 +3,7 @@ import React from 'react'
 const Page5 = () => {
   return (
     <div><hr></hr><br></br>
-          <div className="text-center m-0 p:0 ">Copyright 2025</div><br></br></div>
+          <div className="text-center m-0 p:0 ">Copyright 2026-27</div><br></br></div>
   )
 }
 

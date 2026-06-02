@@ -12,7 +12,7 @@ const Front = () => {
               FULLSTACK
             </div>
 
-            <div className="self-end text-xl leading-none font-[pak] px-4 py-1 rounded-md">
+            <div className="self-end text-xl leading-none font-[pak] -mx-8 py-1 rounded-md">
               Webdeveloper
             </div>
           </div>

@@ -10,7 +10,7 @@ const Navbar = () => {
 
 
       <div className="hidden md:flex items-center gap-6 text-sm text-gray-700">
-        <a href="https://drive.google.com/file/d/1RjgJNze9TWEcXkhHsZZ0iqpLFZ8Dlp5m/view?usp=sharing" className="text-base hover:text-black">Resume</a>
+        <a href="/Vishal.pdf" target="_blank" className="text-base hover:text-black">Resume</a>
         <a href="#projects" className="text-base hover:text-black">Projects</a>
         <a href="#about" className="text-base hover:text-black">About</a>
         <a
